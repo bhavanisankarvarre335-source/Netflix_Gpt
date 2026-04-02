@@ -7,6 +7,9 @@ const App = () => {
         taiwind css just getup repository loki push cheyyatam alago chudali
         
       </h1>
+      <h1>just okayyyyyyy
+        
+      </h1>
     </div>
   )
 }
